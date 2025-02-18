@@ -23,8 +23,7 @@ const Header = () => {
                         onMouseLeave={mouseLeaveHandler}
                         src={Logo}
                         alt="Logo"
-                        height={250}
-                        width={250}
+                        className="h-[100px] w-[100px] md:h-[150px] md:w-[150px] lg:h-[200px] lg:w-[200px]"
                     />
                 </Link>
                 <nav
