@@ -1,1 +1,2 @@
-# photography starter
+# SR Photography & Events
+At (SR Photography & Events)[https://sr-photography-and-events.vercel.app/], we offer a comprehensive range of photography and videography services to bring your vision to life. Whether it's stunning photography that tells a story, high-quality videography that preserves emotions, or candid photos that capture the most natural moments, we ensure every shot is timeless. Our expert use of lighting enhances the beauty of every frame, while drone photography provides breathtaking aerial perspectives. To elevate your events, we also offer LED walls, creating immersive backdrops for a truly cinematic experience. Whatever your needs, we blend creativity and technology to deliver unforgettable visuals. 
